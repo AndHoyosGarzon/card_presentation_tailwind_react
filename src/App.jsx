@@ -6,8 +6,8 @@ function App() {
       <div className="w-[300px] h-[500px] border-1 border-gray-800 bg-Grey-800 rounded-lg px-6 py-4 flex flex-col justify-evenly hover:cursor-pointer hover:brightness-110 transition-all">
         <img
           className="w-[70px] h-[70px] rounded-full  mx-auto"
-          src="../assets/images/avatar-jessica.jpeg"
-          alt=""
+          src="../assets/images/avatarjessica.jpeg"
+          alt="image"
         />
         <div>
           <p className="text-center text-White font-Inter font-bold">
